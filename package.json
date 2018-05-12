@@ -1,0 +1,15 @@
+{
+  "name": "eneb",
+  "version": "1.0.0",
+  "description": "This is a standard ERC20 token. It's purpose is to effectively run Nebula Presale on Ethereum blockchain. ### Deployment 1. Copy all contracts to https://remix.ethereum.org",
+  "main": "index.js",
+  "dependencies": {
+    "web3": "^1.0.0-beta.34"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
